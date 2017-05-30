@@ -1,0 +1,22 @@
+
+.login {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.card{
+	min-width: 350px;
+    max-width: 350px;
+	padding: 10px;
+	--card-background-color: #eee;
+}
+
+.cardActions{
+	justify-content: flex-end !important;
+}
+
+.center{
+	text-align: center;
+}
